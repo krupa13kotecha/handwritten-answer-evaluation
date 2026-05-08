@@ -1,0 +1,5 @@
+H1: Paris
+H2: Photosynthesis is the process by which plants make food using sunlight.
+H3: An object remains at rest unless an external force acts on it.
+H4: Red, green, and blue.
+H5: AI refers to machines that imitate human intelligence.
